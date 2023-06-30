@@ -5,6 +5,7 @@ h1{
     font-weight: bold;
     font-family:Courier;
     font-style: italic;
+    box-shadow: 0.4em 0.4em 5px rgba(64, 255, 0);
 }
 
 .paragraph-2 {
@@ -20,4 +21,12 @@ h1{
     padding-right: 50px;
     padding-bottom: 50px;
     padding: 50px;
+    box-shadow: 0.4em 0.4em 5px rgba(64, 255, 0);
+}
+.paragraph-3 {
+    font-style: italic;
+    text-align: center;
+    font-size: 24px;
+    box-shadow: green;
+
 }
